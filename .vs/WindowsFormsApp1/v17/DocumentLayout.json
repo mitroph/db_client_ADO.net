@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mitroph\\Downloads\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9278532B-5BCD-447A-87F3-606D359E1468}|WindowsFormsApp1.csproj|C:\\Users\\Mitroph\\Downloads\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9278532B-5BCD-447A-87F3-606D359E1468}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9278532B-5BCD-447A-87F3-606D359E1468}|WindowsFormsApp1.csproj|c:\\users\\mitroph\\downloads\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9278532B-5BCD-447A-87F3-606D359E1468}|WindowsFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9278532B-5BCD-447A-87F3-606D359E1468}|WindowsFormsApp1.csproj|c:\\users\\mitroph\\downloads\\windowsformsapp1\\numericupdowncolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9278532B-5BCD-447A-87F3-606D359E1468}|WindowsFormsApp1.csproj|solutionrelative:numericupdowncolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9278532B-5BCD-447A-87F3-606D359E1468}|WindowsFormsApp1.csproj|c:\\users\\mitroph\\downloads\\windowsformsapp1\\maskedtextboxeditingcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9278532B-5BCD-447A-87F3-606D359E1468}|WindowsFormsApp1.csproj|solutionrelative:maskedtextboxeditingcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9278532B-5BCD-447A-87F3-606D359E1468}|WindowsFormsApp1.csproj|c:\\users\\mitroph\\downloads\\windowsformsapp1\\maskedtextboxcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9278532B-5BCD-447A-87F3-606D359E1468}|WindowsFormsApp1.csproj|solutionrelative:maskedtextboxcolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9278532B-5BCD-447A-87F3-606D359E1468}|WindowsFormsApp1.csproj|c:\\users\\mitroph\\downloads\\windowsformsapp1\\maskedtextboxcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9278532B-5BCD-447A-87F3-606D359E1468}|WindowsFormsApp1.csproj|solutionrelative:maskedtextboxcell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9278532B-5BCD-447A-87F3-606D359E1468}|WindowsFormsApp1.csproj|c:\\users\\mitroph\\downloads\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9278532B-5BCD-447A-87F3-606D359E1468}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mitroph\\Downloads\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Mitroph\\Downloads\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T20:27:08.15Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mitroph\\Downloads\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mitroph\\Downloads\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:57:03.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumericUpDownColumn.cs",
+              "DocumentMoniker": "C:\\Users\\Mitroph\\Downloads\\WindowsFormsApp1\\NumericUpDownColumn.cs",
+              "RelativeDocumentMoniker": "NumericUpDownColumn.cs",
+              "ToolTip": "C:\\Users\\Mitroph\\Downloads\\WindowsFormsApp1\\NumericUpDownColumn.cs",
+              "RelativeToolTip": "NumericUpDownColumn.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:56:52.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaskedTextBoxEditingControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mitroph\\Downloads\\WindowsFormsApp1\\MaskedTextBoxEditingControl.cs",
+              "RelativeDocumentMoniker": "MaskedTextBoxEditingControl.cs",
+              "ToolTip": "C:\\Users\\Mitroph\\Downloads\\WindowsFormsApp1\\MaskedTextBoxEditingControl.cs [Design]",
+              "RelativeToolTip": "MaskedTextBoxEditingControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:56:47.063Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaskedTextBoxColumn.cs",
+              "DocumentMoniker": "C:\\Users\\Mitroph\\Downloads\\WindowsFormsApp1\\MaskedTextBoxColumn.cs",
+              "RelativeDocumentMoniker": "MaskedTextBoxColumn.cs",
+              "ToolTip": "C:\\Users\\Mitroph\\Downloads\\WindowsFormsApp1\\MaskedTextBoxColumn.cs",
+              "RelativeToolTip": "MaskedTextBoxColumn.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAAwOEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:55:41.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaskedTextBoxCell.cs",
+              "DocumentMoniker": "C:\\Users\\Mitroph\\Downloads\\WindowsFormsApp1\\MaskedTextBoxCell.cs",
+              "RelativeDocumentMoniker": "MaskedTextBoxCell.cs",
+              "ToolTip": "C:\\Users\\Mitroph\\Downloads\\WindowsFormsApp1\\MaskedTextBoxCell.cs",
+              "RelativeToolTip": "MaskedTextBoxCell.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAmwB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:55:39.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mitroph\\Downloads\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Mitroph\\Downloads\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T18:59:57.023Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
